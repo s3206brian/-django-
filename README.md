@@ -4,6 +4,9 @@
 
 一開始想做一個開放資料的網頁。所以想說拿python當後台，使用django的框架來做開法，並在過程中去抓去google map api，但由於小弟見識出淺，所以參考了無數資料後做了一個小小的整理。
 
+========
+
+
 1.Django Girls 教學
 https://carolhsu.gitbooks.io/django-girls-tutorial-traditional-chiness/content/
 （約實作5個小時）
@@ -26,4 +29,7 @@ http://djangobook.py3k.cn/chapter01/
 （約實作10個小時）
 
 個人覺得深入研究最應該閱讀的網站。每個部分都寫得超詳細的。
+
+5.一次搞定：所有Python Web框架開發百科全書 最完整Python Web框架，包括Django、Flask、Tornado、Twisted等
+(目前閱讀中，也是本文的重點，因為寫得太好啦ＸＤ)
 
