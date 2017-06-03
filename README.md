@@ -33,4 +33,6 @@
 ## 5.一次搞定：所有Python Web框架開發百科全書 最完整Python Web框架，包括Django、Flask、Tornado、Twisted等
 [博客來購買](http://www.books.com.tw/products/0010748589)
 (目前閱讀中，也是本文的重點，因為寫得太好啦ＸＤ)
+從寫網頁會用到python、網站的架構、html的語言、CSS的套用方法。
+
 
